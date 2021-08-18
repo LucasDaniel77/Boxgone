@@ -298,6 +298,11 @@ input.input100 {
   height: 155px;
 }
 
+.size7 {
+  width: 70px;
+  height: 70px;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ Width ]*/
 .wsize1 {
@@ -325,6 +330,7 @@ input.input100 {
 .bg3 {background-color: #3b5998;}
 .bg4 {background-color: #1da1f2;}
 .bg5 {background-color: #cd201f;}
+.bg6 {background-color: #833AB4;}
 
 .bg-img1 {
   background-position: center;
